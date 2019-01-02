@@ -2,7 +2,12 @@
 master
 master
 master
+master
 =======
 new
+new
+<<<<<<< HEAD
+>>>>>>> new
+=======
 new
 >>>>>>> new
